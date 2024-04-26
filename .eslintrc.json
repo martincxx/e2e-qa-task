@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "parserOptions": {
+    "project": "tsconfig.eslint.json"
+  },
+  "extends": [
+    "./.eslint-index.js"
+  ],
+  "rules": {
+    "indent": "off"
+  }
+}
